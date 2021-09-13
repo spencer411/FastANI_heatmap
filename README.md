@@ -3,7 +3,7 @@ This repository contains R code for building a heatmap and histogram with the ou
 
 the R code here can be run directly on the FastANI output file: https://github.com/ParBLiSS/FastANI
 
-Because FastANI cannot compute lower ANI values, anything that lacks a pariwse comparisons in the output file will automatically be changed to a value of 70. So please note this needs to be addressed in the figure caption if comparing diverse isolates.
+Because FastANI cannot compute lower ANI values, anything that lacks a pariwse comparisons in the output file will automatically be changed to a value of 70. So please note this needs to be addressed in the figure caption if comparing such highly diverse isolates.
 
 The color break here is set to 95, the species delimination threshold, but can be manipulated based on the needs of the study.
 
