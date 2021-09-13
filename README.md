@@ -7,6 +7,6 @@ Because FastANI cannot compute lower ANI values, anything that lacks a pariwse c
 
 The color break here is set to 95, the species delimination threshold, but can be manipulated based on the needs of the study.
 
-Example output figure below with *Staphylococcus schleiferi*:
+Low res example output figure below with *Staphylococcus schleiferi*:
 
 ![fastani_figure](https://user-images.githubusercontent.com/43999021/133114386-d7bc6cc6-cde1-4b69-afd6-3a7b01a0caad.jpg)
