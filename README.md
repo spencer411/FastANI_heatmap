@@ -9,4 +9,5 @@ The color break here is set to 95, the species delimination threshold, but can b
 
 Low res example figure below with *Staphylococcus schleiferi*:
 
-![fastani_figure](https://user-images.githubusercontent.com/43999021/133114386-d7bc6cc6-cde1-4b69-afd6-3a7b01a0caad.jpg)
+<img width="997" alt="heatmap" src="https://user-images.githubusercontent.com/43999021/133120697-10be7952-e8ca-4d4e-a300-3421d73e0127.png">
+
